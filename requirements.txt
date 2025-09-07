@@ -1,0 +1,4 @@
+numpy
+# If you are going to run it without docker, uncomment the next line.
+# 'tensorflow[and-cuda]'==2.15.1
+music21
