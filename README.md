@@ -20,16 +20,12 @@ Developers or researchers interested in music generation and deep learning.
 Listen to the generated melodies from our LSTM model:
 
 ### Generated Melody 1
-<audio controls>
-  <source src="example/Untitled_01.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[🎵 Untitled_01.mp3](example/Untitled_01.mp3) - Click to download and play
 
 ### Generated Melody 2
-<audio controls>
-  <source src="example/Untitled_02.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[🎵 Untitled_02.mp3](example/Untitled_02.mp3) - Click to download and play
+
+> **Note**: Click the links above to download and listen to the generated melodies. GitHub doesn't support inline audio playback in README files, but you can easily download and play these MP3 files in any audio player.
 
 ---
 
