@@ -15,6 +15,22 @@ Total holdings: 7,866,496 notes in 108,703 files
 
 Developers or researchers interested in music generation and deep learning.
 
+## 🎵 Audio Preview
+
+Listen to the generated melodies from our LSTM model:
+
+### Generated Melody 1
+<audio controls>
+  <source src="example/Untitled_01.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Generated Melody 2
+<audio controls>
+  <source src="example/Untitled_02.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ---
 
 ## 📁 Project Structure
@@ -51,9 +67,8 @@ Melody Generation/
 
 ### Option 1. Google Colab
 
-NOTE: Using google colab is the prefered method for easier setup with GPUs.
+Using google colab is the prefered method for easier setup with GPUs.
 
-Please [visit and Run the code from there](https://drive.google.com/file/d/11x_UkN0nQqj6eWtlhdDzBZdpitOYQY9z/view?usp=sharing).
 
 ### Option 2. Docker
 
